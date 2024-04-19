@@ -1,0 +1,5 @@
+ollama
+streamlit==1.33.0
+openai
+huggingface_hub
+langchain
