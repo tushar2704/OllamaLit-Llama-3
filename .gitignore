@@ -96,3 +96,4 @@ template.py
 templates/
 .streamlit/secrets.toml
 secrets.toml
+research/
