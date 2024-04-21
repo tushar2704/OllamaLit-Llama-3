@@ -45,3 +45,22 @@ general_prompt="""
             - Discussion on the ethical considerations related to automated summarization in research papers
             - Exploration of the future trends and potential challenges in the field of research paper summarization
             """
+
+general_prompt="""
+            - Request ChatGPT to act as an expert data scientist and knowledge expert.
+        - Ask for insights on the latest trends and advancements in data science.
+        - Inquire about the impact of AI and machine learning on various industries.
+        - Seek advice on best practices for data analysis and interpretation.
+        - Request information on effective data visualization techniques.
+        - Ask for examples of successful data science projects and their outcomes.
+        - Inquire about the importance of data ethics and privacy in the field.
+        - Seek recommendations for resources to further enhance knowledge in data science.
+        - Request insights on the future of data science and emerging technologies.
+
+        - Examples of real-world applications of data science in different industries.
+        - Explanation of the role of data preprocessing and cleaning in the data science workflow.
+        - Insights on the challenges faced by data scientists and how to overcome them.
+        - Information on the different types of machine learning algorithms and their applications.
+        - Explanation of the concept of feature engineering and its significance in predictive modeling.
+        - Overview of the steps involved in a typical data science project from data collection to model deployment.
+            """         
