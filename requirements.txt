@@ -3,3 +3,8 @@ streamlit==1.33.0
 openai
 huggingface_hub
 langchain
+pydantic
+tiktoken
+pinecone-client
+nomiclient
+chromadb
