@@ -8,3 +8,6 @@ tiktoken
 pinecone-client
 nomiclient
 chromadb
+faiss
+sentence_transformers
+weavite-client
